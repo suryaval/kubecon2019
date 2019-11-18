@@ -12,3 +12,5 @@
 #### Best Practices
 
 * Use ServiceAccounts for deployments, evolve network policies using serviceaccounts
+
+[start cluster](./start-cluster.md)
