@@ -43,3 +43,10 @@
 The following example details about the usage of prometheus to understand the status of deployments by querying prometheus over the nginx ingress controller
 
 [kind: AnalysisTemplate](https://github.com/argoproj/rollouts-demo/blob/94daa590c8c32562efcca1315bd8464935272e95/examples/analysis/analysis-success-rate.yaml)
+
+
+### Experiment CRDs
+
+Analysis should be coupled with an experiment to turn it into a valuable deployment practice
+
+* experiment determines what is wrong with the service/deployment
