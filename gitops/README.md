@@ -19,3 +19,7 @@
 ### Costing
 
 * Cost-Quota & Resource-Quota are also submitted and operated via PRs
+
+### Resources
+
+* [GitOps by weaveworks](https://www.weave.works/blog/gitops-operations-by-pull-request)
